@@ -26,6 +26,5 @@ It focuses on engagement, completion, session activity, and participation metric
 
 ## Files Included
 - Excel dashboard (.xlsm)
-- Dashboard PDF
-- Project report
+- Dashboard PDFProject report
 - Presentation slides
